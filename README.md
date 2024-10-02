@@ -1,5 +1,5 @@
 Tasks Overview
-The following tasks have been completed as part of the internship:
+The following tasks have been completed:
 
 Task 1: Analyzing Restaurant Reviews
 Objective: Analyze customer reviews from Yelp to understand sentiment and customer preferences.
